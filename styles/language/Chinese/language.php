@@ -15,19 +15,19 @@
  */
 $admin_language = array(
 	// General terms
-	'admin_cp' => '管理者後台',
+	'admin_cp' => '管理员后台',
 	'infractions' => 'Infractions',
-	'invalid_token' => '不正確的 token，請重試。',
-	'invalid_action' => '不正確的動作',
-	'successfully_updated' => '更新完畢',
-	'settings' => '設定',
-	'confirm_action' => '確認操作',
-	'edit' => '編輯',
-	'actions' => '動作',
-	'task_successful' => '任務執行完畢',
+	'invalid_token' => '错误的 token，请重试。',
+	'invalid_action' => '错误的操作',
+	'successfully_updated' => '更新完成',
+	'settings' => '设置',
+	'confirm_action' => '确定吗？',
+	'edit' => '编辑',
+	'actions' => '动作',
+	'task_successful' => '任务完成',
 	
 	// Admin login
-	're-authenticate' => '請重新登入',
+	're-authenticate' => '重新登录',
 	
 	// Admin sidebar
 	'index' => '概覽',
